@@ -10,3 +10,7 @@ body {
     margin : 1%;
     text-align: center;
 }
+
+.title {
+    font-style: italic;
+}
